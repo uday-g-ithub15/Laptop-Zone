@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    background-color: #18100bcf;
+}
+nav > a {
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0 10px;
+    color: aqua;
+}
