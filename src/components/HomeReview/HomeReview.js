@@ -8,7 +8,7 @@ const HomeReview = ({ user }) => {
       <img src={picture} alt="" />
       <h4>Name : {name}</h4>
       <p>Comment : {comment}</p>
-      <p>Rateings : {rate}</p>
+      <p>Ratings : {rate}</p>
     </div>
   );
 };
