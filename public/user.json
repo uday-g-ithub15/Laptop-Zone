@@ -1,0 +1,51 @@
+[
+    {
+      "id": 0,
+      "picture": "https://img.freepik.com/free-photo/handsome-young-man-with-new-stylish-haircut_176420-19637.jpg?w=996&t=st=1649018550~exp=1649019150~hmac=8754e41444b5e77aea30a4b54086a813900d1d5c9c42df9076c71d416b48a7e7",
+      "name": "Duran Wall",
+      "rate" : 5,
+      "comment": "This is really nice product."
+    },
+    {
+      "id": 1,
+      "picture": "https://img.freepik.com/free-photo/handsome-businessman-suit-glasses-cross-arms-chest-look_176420-21750.jpg?w=996&t=st=1649018540~exp=1649019140~hmac=412a4e5d0be3fd51ab58cf2c1feaab42a31544f527a9f67423f64850286930d2",
+      "name": "Lina Rodriquez",
+      "rate" : 5,
+      "comment": "Best service."
+    },
+    {
+      "id": 2,
+      "picture": "https://img.freepik.com/free-photo/young-successful-businessman-correcting-tie_176420-1133.jpg?w=996&t=st=1649018666~exp=1649019266~hmac=6c45c930583e256ffbd733c82f94f305b2573333eeb437ed173cb471516004ef",
+      "name": "Mariana Carrillo",
+      "rate" : 4,
+      "comment": "I would like to know about warrenty service."
+    },
+    {
+      "id": 3,
+      "picture": "https://img.freepik.com/free-photo/handsome-corporate-man-real-estate-agent-assistant-smiling-hold-hands-together-how-may-i-help-you-smiling-friendly-polite-assist-customer-white-background_176420-45257.jpg?w=996&t=st=1649018657~exp=1649019257~hmac=48d83e315d9793deb38626edabc4a4e536f9d93a7f6987da9ad7d0a5cc4dffb2",
+      "name": "Sellers Kent",
+      "rate" : 5,
+      "comment": "Nice product."
+    },
+    {
+      "id": 4,
+      "picture": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=996&t=st=1649018564~exp=1649019164~hmac=7113eba4326b74b848afd7fe2266b45a44900c3c5b1f7b2149f8f3525dea1569",
+      "name": "Carmen Richards",
+      "rate" : 4,
+      "comment": "Does silver color available?."
+    },
+    {
+      "id": 5,
+      "picture": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=996&t=st=1649018558~exp=1649019158~hmac=ce40250f0d48ebaf614ff76cfacb32f7232f3c0462735468a8d73256af033de0",
+      "name": "Melisa Booker",
+      "rate" : 4.5,
+      "comment": "Can I get this as home delivery?."
+    },
+    {
+      "id": 6,
+      "picture": "https://img.freepik.com/free-photo/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes_176532-10257.jpg?w=996&t=st=1649018557~exp=1649019157~hmac=b46e2087d9e0ed6e0f018f2027fafb853fd5c55644ef93c2573cabaeba4b6e7f",
+      "name": "Juanita Booth",
+      "rate" : 4.5,
+      "comment": "Seller is so good."
+    }
+  ]

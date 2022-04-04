@@ -1,0 +1,17 @@
+.home-page-review {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+.all-review-btn{
+    display: block;
+    margin: auto;
+    padding: 12px;
+    border-radius: 10px;
+    font-weight: 700;
+    background-color: white;
+    color: indigo;
+}
+.all-review-btn:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,15 @@
+.single-home-review img{
+    width: 300px;
+}
+
+.single-home-review{
+    margin: 10px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(105, 47, 47, 0.267);
+    padding: 20px;
+}
+.home-page-review h4, .home-page-review p{
+    margin: 4px;
+}

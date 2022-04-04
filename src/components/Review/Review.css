@@ -1,0 +1,12 @@
+.review img{
+    width: 100px;
+    border: 2px groove whitesmoke;
+    border-radius: 40px;
+}
+.review {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: rgba(105, 47, 47, 0.267);
+}
