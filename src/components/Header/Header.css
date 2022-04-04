@@ -1,15 +1,37 @@
-nav{
+.nav-item{
     display: flex;
     justify-content: center;
+    align-items: center;
     position: sticky;
     top: 0;
     z-index: 2;
     background-color: #18100bcf;
 }
-nav > a {
+nav  a {
     display: block;
     text-decoration: none;
     padding: 10px;
     margin: 0 10px;
     color: aqua;
+}
+.menu-btn{
+    display: none;
+}
+@media screen and (max-width:688px) {
+    .nav-item{
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        width: 40%;
+        transition: all 0.5s;
+    }
+    .nav-item-visible{
+        left: 30px;
+    }
+    .nav-item-none{
+        left: -400px;
+    }
+    .menu-btn{
+        display: block;
+    }
 }

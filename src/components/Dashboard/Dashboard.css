@@ -3,3 +3,9 @@
     grid-template-columns: 1fr 1fr;
     grid-gap: 10px;
 }
+@media screen and (max-width:688px) {
+    .chart-container{
+        display: flex;
+        flex-direction: column;
+    }
+}

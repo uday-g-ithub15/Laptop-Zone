@@ -8,3 +8,10 @@
 .review h4, .review p {
     margin: 5px;
 }
+
+@media screen and (max-width:688px) {
+    .review-container{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
