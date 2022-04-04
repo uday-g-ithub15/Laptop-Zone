@@ -3,9 +3,10 @@
     justify-content: space-around;
     align-items: center;
     margin: 10px 0;
+    padding: 20px;
 }
 .product-container img{
-    width: 600px;
+    width: 35em;
 }
 .product-container button{ 
     padding: 12px;
