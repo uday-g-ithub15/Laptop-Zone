@@ -13,6 +13,10 @@ const Home = () => {
           </h2>
           <h2>Buy your next Laptop</h2>
           <h2>Get your best product</h2>
+          <p>
+            We are importing products from USA,UK,GERMANY.So you can trust us
+            and our product and buy from us
+          </p>
           <button>Show demo</button>
         </div>
         <div className="img">

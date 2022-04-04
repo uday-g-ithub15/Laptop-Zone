@@ -2,7 +2,6 @@ import React from "react";
 import "./HomeReview.css";
 const HomeReview = ({ user }) => {
   const { name, picture, comment, rate } = user;
-  console.log(user);
   return (
     <div className="single-home-review">
       <img src={picture} alt="" />

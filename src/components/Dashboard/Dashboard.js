@@ -6,6 +6,7 @@ import {
   Bar,
   BarChart,
   CartesianGrid,
+  Legend,
   Line,
   LineChart,
   Tooltip,
@@ -61,6 +62,7 @@ const Dashboard = () => {
           <Tooltip />
           <XAxis dataKey="month"></XAxis>
           <YAxis />
+          <Legend />
           <Area
             type="monotone"
             dataKey="investment"

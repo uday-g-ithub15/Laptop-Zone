@@ -5,7 +5,6 @@ import "./Reviews.css";
 
 const Reviews = () => {
   const [users] = useUser();
-  console.log(users);
   return (
     <div className="review-container">
       {users.map((user) => (
